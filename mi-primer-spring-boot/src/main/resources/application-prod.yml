@@ -1,0 +1,5 @@
+server:
+  port: 9000
+Spring:
+  application:
+    name: app-prod
